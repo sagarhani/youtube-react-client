@@ -1,2 +1,2 @@
 # youtube-react-client
-Youtube UI client bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Youtube UI client bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
